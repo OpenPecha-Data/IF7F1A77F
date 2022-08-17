@@ -1,0 +1,59 @@
+id: 7be56d042d20461780977f5c2cf9ba4c
+annotation_type: index
+revision: '00001'
+annotations:
+  f2ade2b8cc244bfaa528c4f9bf9ea8b4:
+    base: E38A.txt
+    Chapters:
+    - title: Title
+      span:
+        start: 0
+        end: 18
+    - title: Preface
+      span:
+        start: 19
+        end: 131
+    - title: 'Chapter 1: Bodhicittānuśaṃsaḥ'
+      span:
+        start: 132
+        end: 6048
+    - title: 'Chapter 2: Pāpadeśanā'
+      span:
+        start: 6049
+        end: 15097
+    - title: 'Chapter 3: Bodhicittaparigraho'
+      span:
+        start: 15098
+        end: 19349
+    - title: 'Chapter 4: Bodhicittāpramādo'
+      span:
+        start: 19350
+        end: 26676
+    - title: 'Chapter 5: Saṃprajanyarakṣaṇaḥ'
+      span:
+        start: 26677
+        end: 42441
+    - title: 'Chapter 6: Kṣāntipāramitā'
+      span:
+        start: 42442
+        end: 61487
+    - title: 'Chapter 7: Vīryapāramitā'
+      span:
+        start: 61488
+        end: 73314
+    - title: 'Chapter 8: Dhyānapāramitā'
+      span:
+        start: 73315
+        end: 100312
+    - title: 'Chapter 9: Prajñāpāramitā'
+      span:
+        start: 100313
+        end: 127124
+    - title: 'Chapter 10: Pariṇāmanā'
+      span:
+        start: 127125
+        end: 136160
+    - title: Colophon
+      span:
+        start: 136161
+        end: 136162
